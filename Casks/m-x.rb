@@ -1,6 +1,6 @@
 cask "m-x" do
-  version "0.1.1"
-  sha256 "78571b60a267e95435f250c7bbcc4b8a84324b4a3e0d781c42a8b382bed5bd17"
+  version "0.1.2"
+  sha256 "7fd963d9b034fead591bc3d9dd7eb0371d1cb0d15f7a8ecdedaa83428489e5db"
 
   url "https://github.com/xiaoxinghu/m-x/releases/download/v#{version}/M-x.app.zip"
   name "M-x"
